@@ -11,14 +11,16 @@ This project applies **data cleaning, exploratory data analysis (EDA), feature e
 ✔ **Data visualization** using Seaborn, Matplotlib, and interactive Folium maps  
 ✔ **Geospatial analysis** to identify price variations across different neighborhoods  
 
-🔗 **Check out the LinkedIn posts that explain these concepts in detail:**  
-- Handling Missing Values: [Insert Link]  
-- Removing Duplicates: [Insert Link]  
+🔗 **Check out the Files that explain these concepts in detail:**  
+- Handling Missing Values: [https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/Handling%20Missing%20Values%20in%20Data%20Analysis.pptx]  
+- Removing Duplicates: [https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/handling%20duplicates.pptx]
+- Seaborn - [https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/seaborn.pptx]
 
 ---
 
 ## **📂 Dataset**  
 We use the **AB_NYC_2019.csv** dataset, which contains information on Airbnb listings across New York City.  
+Dataset Link - [https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/AB_NYC_2019.csv]
 
 ### **🔹 Features in the dataset:**  
 - **Categorical Features:** Room type, neighborhood, host information  
