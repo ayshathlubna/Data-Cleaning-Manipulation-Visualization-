@@ -68,7 +68,8 @@ Dataset Link - [https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visua
 
 
 ## **📺 Watch the Project in Action!**  
-🎥 **I’ve attached a screen recording of the project walkthrough so you can see how everything comes together!**  
+🎥 **I’ve attached a screen recording of the project walkthrough on linkedin so you can see how everything comes together in!**  
+
 
 ---
 
@@ -102,11 +103,11 @@ pip install numpy pandas seaborn matplotlib scikit-learn folium
 ---
 
 ## **📥 Download the Full Project**  
-📂 **[Click here to access the full project](GitHub Repo Link)**  
+📂 **[https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/data%20manipulation%20and%20visualization.ipynb]**  
 
 ---
 
 ## **📢 Let’s Connect!**  
-If you found this project helpful, let's discuss! Feel free to reach out on **LinkedIn** or drop a comment below. 🚀  
+If you found this project helpful, let's discuss! Feel free to reach out on **[www.linkedin.com/in/ayshath-lubna]**  
 
 #DataScience #Python #DataCleaning #EDA #DataVisualization #FeatureEngineering #MachineLearning  
