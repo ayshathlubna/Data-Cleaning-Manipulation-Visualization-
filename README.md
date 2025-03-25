@@ -84,7 +84,7 @@ pip install numpy pandas seaborn matplotlib scikit-learn folium
 ### **▶ Running the Project**  
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/Airbnb-NYC-Data-Analysis.git
+   git clone [https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-]
    ```
 2. Navigate to the directory:  
    ```bash
