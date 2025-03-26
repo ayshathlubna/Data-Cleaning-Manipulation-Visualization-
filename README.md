@@ -87,9 +87,9 @@ pip install numpy pandas seaborn matplotlib scikit-learn folium
    ```
 2. Navigate to the file:  
    ```bash
-  jupyter notebook "data manipulation and visualization.ipynb"
-  or
-  python "data manipulation and visualization.py"
+   jupyter notebook "data manipulation and visualization.ipynb"
+   or
+   python "data manipulation and visualization.py"
 
    ```
 3. Run the Jupyter Notebook or Python script to execute the analysis.  
