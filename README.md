@@ -12,9 +12,9 @@ This project applies **data cleaning, exploratory data analysis (EDA), feature e
 ✔ **Geospatial analysis** to identify price variations across different neighborhoods  
 
 🔗 **Check out the Files that explain these concepts in detail:**  
-- Handling Missing Values: [https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/Handling%20Missing%20Values%20in%20Data%20Analysis.pptx]  
-- Removing Duplicates: [https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/handling%20duplicates.pptx]
-- Seaborn - [https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/seaborn.pptx]
+- [Handling Missing Values:](https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/Handling%20Missing%20Values%20in%20Data%20Analysis.pptx)
+- [Removing Duplicates:](https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/handling%20duplicates.pptx)
+- [Seaborn] - (https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/seaborn.pptx)
 
 ---
 
@@ -86,9 +86,12 @@ pip install numpy pandas seaborn matplotlib scikit-learn folium
    ```bash
    git clone [https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-]
    ```
-2. Navigate to the directory:  
+2. Navigate to the file:  
    ```bash
-   cd Airbnb-NYC-Data-Analysis
+  jupyter notebook "data manipulation and visualization.ipynb"
+  or
+  python "data manipulation and visualization.py"
+
    ```
 3. Run the Jupyter Notebook or Python script to execute the analysis.  
 
@@ -103,7 +106,7 @@ pip install numpy pandas seaborn matplotlib scikit-learn folium
 ---
 
 ## **📥 Download the Full Project**  
-📂 **[https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/data%20manipulation%20and%20visualization.ipynb]**  
+📂 **[Data Visualization and Manipulation](https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/data%20manipulation%20and%20visualization.ipynb)**  
 
 ---
 
