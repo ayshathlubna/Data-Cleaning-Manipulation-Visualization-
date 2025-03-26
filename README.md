@@ -83,7 +83,7 @@ pip install numpy pandas seaborn matplotlib scikit-learn folium
 ### **▶ Running the Project**  
 1. Clone this repository:  
    ```bash
-   git clone [https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-]
+   git clone https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-
    ```
 2. Navigate to the file:  
    ```bash
@@ -110,6 +110,6 @@ pip install numpy pandas seaborn matplotlib scikit-learn folium
 ---
 
 ## **📢 Let’s Connect!**  
-If you found this project helpful, let's discuss! Feel free to reach out on **[www.linkedin.com/in/ayshath-lubna]**  
+If you found this project helpful, let's discuss! Feel free to reach out on [**Linkedin**](www.linkedin.com/in/ayshath-lubna)  
 
 #DataScience #Python #DataCleaning #EDA #DataVisualization #FeatureEngineering #MachineLearning  
