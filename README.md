@@ -14,13 +14,12 @@ This project applies **data cleaning, exploratory data analysis (EDA), feature e
 🔗 **Check out the Files that explain these concepts in detail:**  
 - [Handling Missing Values:](https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/Handling%20Missing%20Values%20in%20Data%20Analysis.pptx)
 - [Removing Duplicates:](https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/handling%20duplicates.pptx)
-- [Seaborn] - (https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/seaborn.pptx)
+- [Seaborn](https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/seaborn.pptx)
 
 ---
 
 ## **📂 Dataset**  
-We use the **AB_NYC_2019.csv** dataset, which contains information on Airbnb listings across New York City.  
-Dataset Link - [https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/AB_NYC_2019.csv]
+We use the [**AB_NYC_2019.csv**](https://github.com/ayshathlubna/Data-Cleaning-Manipulation-Visualization-/blob/main/AB_NYC_2019.csv) dataset, which contains information on Airbnb listings across New York City. 
 
 ### **🔹 Features in the dataset:**  
 - **Categorical Features:** Room type, neighborhood, host information  
